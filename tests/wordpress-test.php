@@ -4,6 +4,7 @@ include( "/Users/joey/Sites/wp/wp-load.php" );
 
 require __DIR__ . '/../vendor/autoload.php';
 
+Json_Api_Wp_Http::$timeout = 5;
 CloudSwipe_Wp::set_environment( "development" );
 CloudSwipe_Wp::set_secret_key( "sk_store_4ac40d63c965132addbf0c19" );
 
