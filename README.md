@@ -1,6 +1,3 @@
-**NOTE: This library is still in development and is not ready to be used in
-production yet.**
-
 # CloudSwipe WordPress Library
 
 This library can be used to interact with the [CloudSwipe API](https://cloudswipe.com).
